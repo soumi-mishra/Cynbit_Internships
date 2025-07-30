@@ -4,7 +4,7 @@ An interactive dashboard for analyzing and visualizing student performance using
 
 ## 🚀 Live App
 
-[![Open in Streamlit](https://img.shields.io/badge/Launch-App-brightgreen?style=for-the-badge&logo=streamlit)](https://your-username-your-app.streamlit.app)
+[![Open in Streamlit](https://img.shields.io/badge/Launch-App-brightgreen?style=for-the-badge&logo=streamlit)](https://cynbitinternships-awhjy462edvsjveiyxv7le.streamlit.app/)
 
 ## 📁 Folder Contents
 
