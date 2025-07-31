@@ -28,8 +28,6 @@ A lightweight, interactive web app built with **Streamlit** that lets users **ad
 |----------------|--------------------|-------------------|
 | *(Insert Screenshot)* | *(Insert Screenshot)* | *(Insert Screenshot)* |
 
-> *You can upload screenshots inside a `docs/` folder and update this table with image links.*
-
 ---
 
 ## 🛠️ How to Run Locally
