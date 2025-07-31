@@ -24,9 +24,9 @@ A lightweight, interactive web app built with **Streamlit** that lets users **ad
 
 ## 🖼️ App Preview
 
-| 📝 Add Student | 🔍 Filter Students | ✏️ Update Student |
-|----------------|--------------------|-------------------|
-| *(Insert Screenshot)* | *(Insert Screenshot)* | *(Insert Screenshot)* |
+| 📝 Add Student             | 🔍 Filter Students           | ✏️ Update Student             |
+|----------------------------|------------------------------|-------------------------------|
+| ![Add](docs/add_student.png) | ![Filter](docs/filter_students.png) | ![Update](docs/update_student.png) |
 
 ---
 
