@@ -3,9 +3,11 @@
 import streamlit as st
 import joblib
 import emoji
-
+import os
 # Load model
-model = joblib.load("emotion_classifier.pkl")
+# model = joblib.load("emotion_classifier.pkl")
+MODEL_PATH = os.path.join(os.path.dirname(__file__), "emotion_classifier.pkl")
+model = joblib.load(MODEL_PATH)
 
 # Emoji dictionary
 emojis = {
