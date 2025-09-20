@@ -2,7 +2,7 @@ import streamlit as st
 import cv2
 from fer import FER
 import numpy as np
-from emotion_model import EmotionModel  # your custom model (if needed)
+from realtime_emotion_detector import EmotionModel  # your custom model (if needed)
 
 # -----------------------------
 # Page configuration
