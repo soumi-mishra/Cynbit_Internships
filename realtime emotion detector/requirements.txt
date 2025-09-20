@@ -1,0 +1,5 @@
+opencv-python
+fer==22.5.1
+moviepy==1.0.3
+tensorflow-intel==2.16.1
+streamlit
