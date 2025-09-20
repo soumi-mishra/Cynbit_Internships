@@ -1,5 +1,5 @@
 streamlit
-opencv-python
+opencv-python-headless
 fer==22.5.1
 moviepy==1.0.3
 tensorflow>=2.12,<2.17
