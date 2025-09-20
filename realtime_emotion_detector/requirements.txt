@@ -1,8 +1,5 @@
+tensorflow>=2.12.0,<2.17
 opencv-python
 fer==22.5.1
 moviepy==1.0.3
-tensorflow>=2.12.0,<2.17
 streamlit
-numpy
-pandas
-matplotlib
