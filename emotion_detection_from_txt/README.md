@@ -4,7 +4,7 @@ A Streamlit app that detects emotions from text using a Naive Bayes model.
 
 ## 🚀 Live Demo
 
-[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://your-username-your-repo-name.streamlit.app)
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://cynbitinternships-3lj7rk54oynduswfvikmzp.streamlit.app/)
 
 ## 🔍 Features
 - Predicts emotion and shows corresponding emoji
